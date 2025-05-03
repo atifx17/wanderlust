@@ -1,0 +1,15 @@
+res.cookies(name, value);
+req.cookies
+npm i cookie-parser;
+
+app.use(cookieParser("secretcode"));
+
+app.get.....(){
+    res.cookie("color","red",{signed:true});
+}
+
+
+npm i express-session;
+
+
+connect-flash;
