@@ -1,7 +1,7 @@
 
 # 🌍 WanderLust
 
-**WanderLust** is a full-stack **peer-to-peer travel and accommodation platform** inspired by Airbnb. It enables users to **register/login, list their own properties**, and **browse listings** from other users — forming a true **two-sided marketplace**.The platform offers a strong foundation for **user authentication**, **listing management**, **geolocation**, and **user-generated reviews**.
+**WanderLust** is a full-stack **peer-to-peer travel and accommodation platform**. It enables users to **register/login, list their own properties**, and **browse listings** from other users — forming a true **two-sided marketplace**.The platform offers a strong foundation for **user authentication**, **listing management**, **geolocation**, and **user-generated reviews**.
 
 The project is structured using the **MVC (Model-View-Controller)** architecture and leverages a modern and scalable tech stack.
 
